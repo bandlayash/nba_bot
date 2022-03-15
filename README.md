@@ -12,6 +12,6 @@ Follow these steps: • Step 1: Follow instructions on TikTok (@hackermangtp) to
 
 • Step 4: Run position.py (Run > Run Module > move mouse to compose button) to get the (x,y) coordinates for the compose button. The format is (x = x_coord, y = y_coord) (for example (x = 1230, y = 540)) Fill in the (x,y) in pytautogui.click() section.
 
-• Step 5: Change the following values to your information respectively: ENTER_NAME (x2), ENTER_HIGHSCHOOL, ENTER_STATE, ENTER_ADDRESS. (If you don't add your address in the email you're much less likely to get stuff from the colleges.)
+• Step 5: Change the following values to your information respectively: ENTER_NAME (x2), ENTER_CITY, ENTER_STATE, ENTER_ADDRESS. (If you don't add your address in the email you're much less likely to get stuff from the teams.)
 
 • Step 6: Run nbaemailer.py (Run > Run Module) click into the window gmail is on and sit back and watch!
