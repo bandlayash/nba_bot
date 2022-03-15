@@ -14,4 +14,4 @@ Follow these steps: • Step 1: Follow instructions on TikTok (@hackermangtp) to
 
 • Step 5: Change the following values to your information respectively: ENTER_NAME (x2), ENTER_HIGHSCHOOL, ENTER_STATE, ENTER_ADDRESS. (If you don't add your address in the email you're much less likely to get stuff from the colleges.)
 
-• Step 6: Run college_emailer.py (Run > Run Module) click into the window gmail is on and sit back and watch!
+• Step 6: Run nbaemailer.py (Run > Run Module) click into the window gmail is on and sit back and watch!
