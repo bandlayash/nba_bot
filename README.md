@@ -6,7 +6,7 @@ DISCLAIMER - I couldn't find the right email for all the teams so try this on yo
 
 Follow these steps: • Step 1: Follow instructions on TikTok (@hackermangtp) to download python and pyautogui, links can be found here: • https://www.python.org/downloads/ • https://pyautogui.readthedocs.io/en/latest/install.html
 
-• Step 2: Download .CSV and .py files from GitHub (click on the file on the main github branch, click raw, right click and click save as, change the file extension from .txt to .py or .csv (collegeemailer and position need .py, collegenames and collegeemails need .csv), make save all files in one folder on your PC.
+• Step 2: Download .CSV and .py files from GitHub (click on the file on the main github branch, click raw, right click and click save as, change the file extension from .txt to .py or .csv (teamemailer and position need .py, teamnames and teamemails need .csv), make save all files in one folder on your PC.
 
 • Step 3: Press the Windows key, type IDLE and press enter. Open position.py and nbaemailer.py (File > Open > (location of nbaemailer.py and position.py) and open both .py files)
 
