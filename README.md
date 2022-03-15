@@ -2,11 +2,17 @@
 
 CURRENT TEAM EMAILS THAT ARE NOT WORKING:
 • Sacramento Kings
+
 • Philadelphia 76ers
+
 • Toronto Raptors
+
 • Golden State Warriors
+
 • Dallas Mavericks
+
 • Charlotte Hornets
+
 
 INSPIRED BY USER @mendozauniversity
 
