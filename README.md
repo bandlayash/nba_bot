@@ -1,6 +1,7 @@
 # nba_bot
 
 CURRENT TEAM EMAILS THAT ARE NOT WORKING:
+
 • Sacramento Kings
 
 • Philadelphia 76ers
