@@ -2,7 +2,7 @@
 
 INSPIRED BY USER @mendozauniversity
 
-DISCLAIMER - Try this on your own accord, I'm not responsible for anything that happens. If you are using GMail, it limits you to 500 emails per day, this is why the counter iterates 500 times on the python bot. I made 4 emails and just made the iterator go from 0-499, 500 - 999, 1000 - 1499, 1500 - 1716 i.e. update the x and i values respectively). After each set of 500 emails, log out and log into the next email you're using. If you need to stop the program once it's started, move your cursor to the upper-left corner of the leftmost monitor, it's a built in failsafe for pyautogui. It takes quite a while for the bot to write out and send every email.
+DISCLAIMER - I couldn't find the right email for all the teams so try this on your own accord. If you really want the swag for a specific team, I would recommend finding a feedback form of their website. I'm not responsible for anything that happens. If you are using GMail, it limits you to 500 emails per day, this is why the counter iterates 500 times on the python bot. I made 4 emails and just made the iterator go from 0-499, 500 - 999, 1000 - 1499, 1500 - 1716 i.e. update the x and i values respectively). After each set of 500 emails, log out and log into the next email you're using. If you need to stop the program once it's started, move your cursor to the upper-left corner of the leftmost monitor, it's a built in failsafe for pyautogui. It takes quite a while for the bot to write out and send every email.
 
 Follow these steps: • Step 1: Follow instructions on TikTok (@hackermangtp) to download python and pyautogui, links can be found here: • https://www.python.org/downloads/ • https://pyautogui.readthedocs.io/en/latest/install.html
 
